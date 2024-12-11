@@ -31,7 +31,6 @@ The project leverages a *data-driven approach* using TestNG's @DataProvider and 
 - *Java 11*: Programming language used for writing test scripts.
 - *Selenium WebDriver 4.0*: Framework for automating web browser interactions.
 - *TestNG 7.4.0*: Testing framework for managing and executing test cases.
-- *Allure Reports 2.13.9*: Reporting framework for generating comprehensive test reports.
 - *Maven*: Build automation tool for managing project dependencies.
 - *Apache POI*: Library for handling Excel files (if using Excel for test data).
 - *Git*: Version control system for tracking changes and collaboration.
