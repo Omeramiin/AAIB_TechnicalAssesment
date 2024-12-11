@@ -5,8 +5,6 @@
 ![Java](https://img.shields.io/badge/Java-8%2B-blue.svg)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange.svg)
 ![TestNG](https://img.shields.io/badge/TestNG-7.4.0-purple.svg)
-![Allure](https://img.shields.io/badge/Allure-2.13.9-yellow.svg)
-![GitHub](https://img.shields.io/github/license/Omeramiin/AAIB_TechnicalAssesment.svg)
 
 ## Table of Contents
 
